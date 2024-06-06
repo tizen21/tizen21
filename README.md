@@ -5,7 +5,7 @@ Since January 2024, I started my dev life after 15 years spent in the commercial
 I have always been passionate about tech and today I decided to make it my career.
 
 * 🌍 I'm based in France / Paris 🇫🇷
-* 🖥️ See my portfolio at [this link](https:anthony-rey.com). And you can contact me on it !
+* 🖥️ See my portfolio at [this link](https://anthony-rey.com). And you can contact me on it !
 * 🚀 I'm currently working on personal projects to continue improve my skills
 * 🧠 I'm learning React, NextJS, TypeScript, TailwindCSS, and I'm trying to be a full-satck developper.
 * 🤝 I'm open to collaborating on both front and back end projects with creative aspects.
